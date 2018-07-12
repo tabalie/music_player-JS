@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    font-family: 'Open Sans'; /* sets font to the "Open Sans" typeface */
+    font-family: 'Montserrat'; /* sets font to the "Open Sans" typeface */
     color: white;             /* sets text color to white */
     min-height: 100%;         /* says the height of the body must be min 100% of the window */
 }
